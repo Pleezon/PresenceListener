@@ -1,0 +1,8 @@
+
+{
+  "uuid": "%uuid%",
+  "name": "PresenceListener",
+  "mainClass": "de.techgamez.pleezon.PresenceListener",
+  "description": "stalk players. Enter .help for commands.",
+  "author": "Pleezon || AntiBannSystem"
+}
